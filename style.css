@@ -7,6 +7,21 @@ html{
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: aliceblue;
+    
+}
+
+body, h1, h2, p{
     margin: 0;
     padding: 0;
+}
+
+h1, footer{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    margin: auto;
 }
