@@ -1,0 +1,12 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+html{
+    font-size: 17px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
